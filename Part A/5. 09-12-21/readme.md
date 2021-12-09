@@ -8,4 +8,4 @@ Also compute the Cost, SSE, SSR, SST and R2.
 
 # Dataset
 
-[FOOD TRUCK DATA SET]()
+[FOOD TRUCK DATA SET](https://github.com/1NT19IS417/1NT19IS417_mukund_B_mlLab/blob/main/Part%20A/5.%2009-12-21/Food-Truck-LineReg.csv)
