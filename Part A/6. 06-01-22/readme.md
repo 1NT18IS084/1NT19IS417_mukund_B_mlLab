@@ -9,4 +9,4 @@ And produce a Classfication Report for the Data Obtained
 
 # Dataset
 
-[STUDENT UNIVERSITY DATA SET](https://github.com/1NT19IS417/1NT19IS417_mukund_B_mlLab/blob/main/Part%20A/5.%2009-12-21/Food-Truck-LineReg.csv)
+[STUDENT UNIVERSITY DATA SET](https://github.com/1NT19IS417/1NT19IS417_mukund_B_mlLab/blob/main/Part%20A/6.%2006-01-22/Student-University.csv)
