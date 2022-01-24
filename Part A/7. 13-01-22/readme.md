@@ -2,7 +2,8 @@
 
 ### Question 6
 
-Use an Appropriate 2-Dimensional data set and Generate Gardients of its features.<br>
+Use IRIS data set and perform the PCA on the dataset. Examine the first 2 principal components of X. <br>
+Create a scatter plot with each of the 150 rows of X projected onto the first two principal components. In other words, the horizontal axis should be first principal component, the vertical axis should be second principal component.<br>
 And Find the Logistic Regressed value <br>
 And produce a Classfication Report for the Data Obtained
 
